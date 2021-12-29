@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-30 10:25:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c730a10f97000110c00eb4b3f153afd6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Innovate App</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Innovate App" source="x_721536_innovate">5e895d0397000110c00eb4b3f153af04</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate App">5e895d0397000110c00eb4b3f153af04</sys_scope>
+        <sys_update_name>sys_app_application_c730a10f97000110c00eb4b3f153afd6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-30 10:25:38</sys_updated_on>
+        <title>Innovate App</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Innovate App">5e895d0397000110c00eb4b3f153af04</application>
+        <file_path/>
+        <instance_id>319201acdb434c5452dd2f17d49619d7</instance_id>
+        <instance_name>dev100905</instance_name>
+        <name>sys_app_application_c730a10f97000110c00eb4b3f153afd6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>100</order><roles/><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-11-30 10:25:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c730a10f97000110c00eb4b3f153afd6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Innovate App</sys_name><sys_overrides/><sys_package display_value="Innovate App" source="x_721536_innovate">5e895d0397000110c00eb4b3f153af04</sys_package><sys_policy/><sys_scope display_value="Innovate App">5e895d0397000110c00eb4b3f153af04</sys_scope><sys_update_name>sys_app_application_c730a10f97000110c00eb4b3f153afd6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-11-30 10:25:38</sys_updated_on><title>Innovate App</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>1917427820</payload_hash>
+        <record_name>Innovate App</record_name>
+        <reverted_from/>
+        <source>1e8911c797000110c00eb4b3f153afdd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-30 10:25:38</sys_created_on>
+        <sys_id>c850a50f97000110c00eb4b3f153af4a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d7060e7960000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-30 10:25:38</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>0450a50f830001105f8e9381386d784a</update_guid>
+        <update_guid_history>0450a50f830001105f8e9381386d784a:1917427820</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Innovate App">c8222d8f97000110c00eb4b3f153af63</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-30 10:33:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>89fa6845c64348bd8b1d9c33214b0041</sys_id>
+        <sys_metadata>c730a10f97000110c00eb4b3f153afd6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Innovate App</sys_name>
+        <sys_package display_value="Innovate App" source="x_721536_innovate">5e895d0397000110c00eb4b3f153af04</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Innovate App">5e895d0397000110c00eb4b3f153af04</sys_scope>
+        <sys_scope_delete display_value="">19dad21cc0bc4b0c8700625c6b72a724</sys_scope_delete>
+        <sys_update_name>sys_app_application_c730a10f97000110c00eb4b3f153afd6</sys_update_name>
+        <sys_update_version display_value="sys_app_application_c730a10f97000110c00eb4b3f153afd6">c850a50f97000110c00eb4b3f153af4a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-30 10:33:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
